@@ -1,0 +1,128 @@
+body{
+  background:-webkit-linear-gradient(top,#397AE0 ,#31E3F7 100%);
+}
+/*Utilidades unicas*/
+/*-----------------*/
+.fix{
+  position: sticky;
+            top: 0;
+            z-index: 10;
+}
+
+.login{
+  text-decoration: none;
+  font-style: oblique;
+  font-family: cursive;
+  color: #25E6A4;
+  text-align: center;
+
+
+}
+
+a.login:hover{
+  text-decoration: none;
+  color:#7097E5;
+}
+
+/*-----------------*/
+/*Utilidades unicas*/
+
+
+
+
+
+
+/*Utilidades globales*/
+/*-------------------*/
+.vacio{
+  height: 18rem;
+}
+
+.marginTop{
+  margin-top: 6rem;
+}
+
+.margin{
+  margin: 0.5rem;
+}
+
+.texto-izquierda{
+  font-style: oblique;
+  font-family: cursive;
+  color: white;
+  text-align: left;
+}
+
+.texto{
+  font-style: oblique;
+  font-family: cursive;
+  color: white;
+  text-align: center;
+}
+
+.texto_izquierda{
+  font-style: oblique;
+  font-family: cursive;
+  color: white;
+  text-align: left;
+}
+
+.texto2{
+  font-style: inherit;
+  font-style: bold;
+  color: whitesmoke;
+  text-align: justify-all;
+  font-size: 1.1rem;
+}
+
+.bg-n2{
+  background:-webkit-linear-gradient(bottom,#fa5733 ,#ffc30f 100%);
+}
+
+.bg-n2a{
+  background:-webkit-linear-gradient(bottom,#ffc30f ,#fa5733 100%);
+}
+
+.bg-n3{
+  background:-webkit-linear-gradient(bottom,#343434 ,#1F1D1D 50%);
+}
+/*fondo negro gradiente*/
+.bg-n3a{
+  background:-webkit-linear-gradient(bottom,#1F1D1D ,#343434 50%);
+}
+/*fondo negro gradiente volteado*/
+.bg-n{
+  background:-webkit-linear-gradient(top,#343434 ,#1F1D1D 50%);
+}
+
+.bg-migas{
+  background:-webkit-linear-gradient(top,#4F4D4D ,#3A3737 50%);
+}
+
+.alto{
+  height: 10em;
+}
+/*-------------------*/
+/*Utilidades globales*/
+
+
+
+
+
+/* Estilos de diseño  NOTA: borrar al final;*/
+/*------------------------------------------*/
+
+.bcb{
+  border: 5px solid #fff;
+} /* visualiza la caja de los contenedores */
+.bfv{
+  border: 5px solid #5FFF33;
+} /* visualiza la caja de las filas */
+.bcr{
+  border: 5px solid #FF5733;
+} /* visualiza la caja de las columnas */
+
+
+/*------------------------------------------*/
+/* Estilos de diseño  NOTA: borrar al final;*/
+

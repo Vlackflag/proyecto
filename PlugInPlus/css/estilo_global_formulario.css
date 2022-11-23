@@ -1,0 +1,161 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+body{
+  background:-webkit-linear-gradient(top,#397AE0 ,#31E3F7 100%);
+}
+
+
+.contact_form{  
+  width: 460px; 
+  height: auto;
+  margin: 50px auto;
+  border-radius: 10px;  
+  padding-top: 30px;
+  padding-bottom: 20px;  
+  background-color: #fbfbfb; 
+  padding-left: 30px; 
+}
+.input{
+  background-color: #fbfbfb; 
+  width: 408px; 
+  height: 40px; 
+  border-radius: 5px;  
+  border-style: solid; 
+  border-width: 1px; 
+  border-color: #4F4D4D; 
+  margin: auto;  
+  padding-left: 10px;
+  margin-bottom: 20px; 
+}
+
+.label{
+  display: block; 
+  float: center;  
+}
+.button{
+  height: 45px; 
+  padding-left: 5px;
+  padding-right: 5px;   
+  margin: auto;   
+  text-transform: uppercase;
+  background-color: #4F4D4D; 
+  border-color: #4F4D4D; 
+  border-style: solid; 
+  border-radius: 10px;  
+  width: 400px;   
+  cursor: pointer;
+  margin-right: 10px;
+}
+.button p{
+  color: #fff; 
+}
+.span{
+  color: #4F4D4D; 
+}
+.aviso{
+  font-size: 13px;  
+  color: #4F4D4D;  
+}
+h1{
+  font-size: 39px;  
+  text-align: letf; 
+  padding-bottom: 20px; 
+  color: #4F4D4D;
+}
+h3{
+  font-size: 16px; 
+  padding-bottom: 30px;
+  color: #4F4D4D;   
+}
+.p{
+  font-size: 14px; 
+  color: #4F4D4D; 
+}
+
+/*Utilidades unicas*/
+/*-----------------*/
+.fix{
+  position: sticky;
+            top: 0;
+            z-index: 10;
+}
+
+
+.login{
+  text-decoration: none;
+  font-style: oblique;
+  font-family: cursive;
+  color: #25E6A4;
+  text-align: center;
+
+
+}
+
+a.login:hover{
+  text-decoration: none;
+  color:#7097E5;
+}
+
+/*-----------------*/
+/*Utilidades unicas*/
+
+
+
+
+
+
+/*Utilidades globales*/
+/*-------------------*/
+
+
+
+.texto{
+  font-style: oblique;
+  font-family: cursive;
+  color: white;
+  text-align: center;
+}
+
+
+
+.texto_izquierda{
+  font-style: oblique;
+  font-family: cursive;
+  color: white;
+  text-align: left;
+}
+
+
+
+.bg-n{
+  background:-webkit-linear-gradient(top,#343434 ,#1F1D1D 50%);
+}
+
+.bg-migas{
+  background:-webkit-linear-gradient(top,#4F4D4D ,#3A3737 50%);
+}
+/*-------------------*/
+/*Utilidades globales*/
+
+
+
+
+/* Estilos de diseño  NOTA: borrar al final;*/
+/*------------------------------------------*/
+
+.bcb{
+  border: 5px solid #fff;
+} /* visualiza la caja de los contenedores */
+.bfv{
+  border: 5px solid #5FFF33;
+} /* visualiza la caja de las filas */
+.bcr{
+  border: 5px solid #FF5733;
+} /* visualiza la caja de las columnas */
+
+
+/*------------------------------------------*/
+/* Estilos de diseño  NOTA: borrar al final;*/
+
+
+
+

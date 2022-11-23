@@ -1,0 +1,6 @@
+Primer caso
+http://localhost/tienda3/index.php
+
+
+Segundo caso
+http://localhost:8020/tienda3/index.php
